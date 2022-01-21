@@ -49,14 +49,11 @@ const AboutImg = styled.img`
 export function MoreAboutSection(props) {
   return (
     <MoreAboutContainer>
-      <SectionTitle>More About LOLEDOTA</SectionTitle>
+      <SectionTitle>More About ISONKA</SectionTitle>
       <AboutContainer>
         <AboutText>
-        LOLEDOTA Vehicle Conversions is about designing, building and deliverying best vehicle
-          conversions for your company. {<br />}
-          {<br />} We make sure that you get the best customization
-          and set of applications to ensure the best experience of your clients.{" "}
-          {<br />}
+        ISONKA is a South African online and physical company based in Cape Town that has been supplying {<br />}
+          {<br />} We make sure that you get the best experience.
           {<br />} So wether you are handling different tasks
           or you’re just starting out, you are in the right place.
         </AboutText>
